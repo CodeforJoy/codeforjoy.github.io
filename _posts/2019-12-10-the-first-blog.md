@@ -4,7 +4,7 @@ title:      the-first-blog
 subtitle:   This is for my blog.
 date:       2019-12-10
 author:     ll
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/post-1-first.jpg
 catalog: true
 tags:
     - Blog
