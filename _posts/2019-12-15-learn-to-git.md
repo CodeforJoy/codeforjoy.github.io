@@ -7,20 +7,23 @@ author:     ll
 header-img: img/post-git-learning.jpg
 catalog: true
 tags:
-    - Blog
+    - notes
+    - github
+    - git
 ---
 # git 命令
 ## git
 在本机安装git后，在cmd下打下该命令可以看到git相关的命令，包括开启一个工作区会用到的*clone*、*init*,查看历史命令及状态使用的*log*、*status*、*show*，还有*fetch*、*pull*、*push*，帮助使用到的*git help -a*、*git help -g*。
 ## git init
 ```Initialized empty Git repository in C:/Users/.git/```
+
 在该路径下初始化了一个空的仓库。
 ## git clone
 可以从远程仓库克隆到本地 
  ``` git clone github.com/xxx/xxx```
 ## git add 
-``` git add xx.txt```把xxx文件的变化添加到暂存区
-``` git add .``` 把当前目录下的所有文件添加到暂存区
+- `git add xx.txt`把xxx文件的变化添加到暂存区
+- `git add .` 把当前目录下的所有文件添加到暂存区
 ## git commit
 把当前所有在暂存区要变化的东西一同commit到工作区
 ```git commit -m "update message"```
