@@ -29,10 +29,14 @@ tags:
 - `git add .` 把当前目录下的所有文件添加到暂存区
 
 ## git commit
+
 把当前所有在暂存区要变化的东西一同commit到工作区
 ```git commit -m "update message"```
+
 ## git pull
+
 把远程仓库变化的内容拉到本地
+
 ## git push
 把本地变化的内容推到远程仓库
 ## git status
