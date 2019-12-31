@@ -29,7 +29,7 @@ tags:
 - aluminum 铝
 - amuse 逗乐
 - anchor 抛锚 停泊
-- ankle 脚踝
+- ~~ankle 脚踝~~
 - anticipate 期望 预期
 - apparatus 器械 仪器 器官 
 - appeal 呼吁 申述
@@ -51,14 +51,14 @@ tags:
 - ax 斧子
 ### B 
 - bacteria 细菌
-- baggage 行李
-- balloon 气球
+- ~~baggage 行李~~
+- ~~balloon 气球~~
 - bar 栅栏 barrier
 - bare 赤裸的 仅仅的
 - bargain 交易 议价
 - barrel 桶 圆筒
 - basin 洗脸盆
-- bay 湾
+- ~~bay 湾~~
 - beast野兽
 - belt 带 腰带
 - bend 弯曲
@@ -83,7 +83,7 @@ tags:
 - bureau 局 司 处
 ### C
 - cabinet 橱柜 内阁
-- camel 骆驼
+- ~~camel 骆驼~~
 - campaign 战役 运动
 - canal 运河
 - capital 资本 资金
@@ -93,7 +93,7 @@ tags:
 - cease 停止 窒息
 - cement 水泥 粘结
 - chamber 会议室 房间
-- chill 寒冷
+- ~~chill 寒冷~~
 - chimney 烟囱 玻璃罩
 - cigarette 香烟
 - circuit 电路 环形
@@ -104,7 +104,7 @@ tags:
 - compel 强迫 迫使屈服
 - conceal 隐藏起来
 - condemn 谴责 指责
-- confine 限制 紧闭
+- ~~confine 限制 紧闭~~
 - contempt 轻蔑 受辱
 - contrary 相反的
 - convention 习俗 公约
@@ -114,7 +114,7 @@ tags:
 - creep 爬行，缓慢的行进
 - crew 全体船员
 - crude 简陋的 天然的
-- curse 诅咒
+- ~~curse 诅咒~~
 ### D
 - damp 潮湿的
 - dash 猛冲 孟撞 溅
@@ -123,7 +123,7 @@ tags:
 - deceit 欺骗 欺诈
 - deceive 欺骗 行骗
 - deduce 演绎 推论 推断
-- deed 行为 契约
+- ~~deed 行为 契约~~
 - delegation 代表团
 - delicate 纤细的 易碎的
 - deposit 使沉淀 存放
@@ -141,5 +141,5 @@ tags:
 - drought 干旱
 - dull 枯燥的 不鲜明的
 - dumb 哑的 无言的
-- duty 税 职责
+- ~~duty 税 职责~~
 - 

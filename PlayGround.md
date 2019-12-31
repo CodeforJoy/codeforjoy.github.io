@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      感想
+title:      PlayGround
 subtitle:   some ideas about life.
 date:       2019-12-20
 author:     ll
@@ -11,7 +11,11 @@ tags:
     - record
     - meditation
 ---
-## 感想
+## PlayGround
+
+> I am so relax and happy when I am playing the game in the playground!
+> So, I would like to remember the memory here.
+
 ### 2019.12.20
 - 凡事预则立，不预则废  
 很多事情确实应该早早的计划，做准备，调研相关的内容，早早的想清楚自己到底要的是什么，而不至于做了决定后过了一段时间后再后悔。
@@ -19,7 +23,7 @@ tags:
 从长远考虑自己想要的东西，并且为此早早的做准备。
 
 ### 2019.12.23
-- 《庄子·秋水》：“井蛙不 可以语于海者,拘于虚也;夏虫不可以语于冰者，笃于时也；曲士不可以语於道者，束於教也。”
+- 《庄子·秋水》：“井蛙不可以语于海者,拘于虚也;夏虫不可以语于冰者，笃于时也；曲士不可以语於道者，束於教也。”
 
 ### 2019.12.26
 - 今天思考了讨好型人格的问题
