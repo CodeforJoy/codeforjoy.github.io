@@ -20,6 +20,11 @@ tags:
 
 在该路径下初始化了一个空的仓库。
 
+## 修改配置
+
+``` git config --global user.name "xx"```
+```git config --global user.email xx@name.com```
+
 ## git clone
 可以从远程仓库克隆到本地 
  ``` git clone github.com/xxx/xxx```
