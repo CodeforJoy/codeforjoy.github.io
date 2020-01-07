@@ -4,7 +4,7 @@ title:      leetcode 动态规划DP
 subtitle:   dynamic programming
 date:       2020-01-07
 author:     ll
-header-img: img/post-markdown-learning.jpg
+header-img: img/post-leetcode-dp.jpg
 catalog: true
 tags:
     - Java
