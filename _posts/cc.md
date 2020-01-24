@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      二叉树与遍历
+subtitle:   binary tree and traversal.
+date:       2020-01-24
+author:     ll
+header-img: img/post-markdown-learning.jpg
+catalog: true
+tags:
+    - notes
+    - algorithm
+---
 ### binary tree
 - 线性顺序，如链表、一维数组
 - 树结构，非线性结构，从一个节点触发，有多个可以前往的下一个节点

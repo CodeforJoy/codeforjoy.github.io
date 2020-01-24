@@ -1,4 +1,15 @@
-
+---
+layout:     post
+title:      DFS and BFS
+subtitle:   depth first search and breadth first search.
+date:       2020-01-24
+author:     ll
+header-img: img/post-markdown-learning.jpg
+catalog: true
+tags:
+    - notes
+    - algorithm
+---
 ### DFS 
 ```
 bool DFS(Node n,int d)
