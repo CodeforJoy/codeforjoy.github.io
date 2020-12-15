@@ -24,6 +24,8 @@ tags:
 
 ``` git config --global user.name "xx"```
 ```git config --global user.email xx@name.com```
+## 查看配置
+``` git config --global --list```
 
 ## git clone
 可以从远程仓库克隆到本地 

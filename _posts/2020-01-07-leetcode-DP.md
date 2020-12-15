@@ -47,7 +47,7 @@ class Solution1 {
 }
 ```
 
-P213 [House Rober II](https://leetcode.com/problems/house-robber-ii/)
+P213 [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 ```java
 import java.lang.Math;
 class Solution1 {

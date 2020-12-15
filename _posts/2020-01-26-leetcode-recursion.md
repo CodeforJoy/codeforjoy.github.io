@@ -1,18 +1,33 @@
 ---
 layout:     post
-title:      python进阶知识
-subtitle:   more complex operation in python.
-date:       2019-12-19
+title:      leetcode 递归 recursion
+subtitle:   recursion and tail recursion.
+date:       2020-01-28
 author:     ll
 header-img: img/post-markdown-learning.jpg
 catalog: true
 tags:
-    - notes
-    - python
-    - learn
+    - leetcode
+    - Java
+    - recursion
 ---
-### 
+## 递归  
+- 在函数的定义中使用函数自身的方法。
+- 常用于描述以自相似方法重复事务的过程。
+- 也可理解为自我复制的过程。
 
+## leetcode 题目
+P344[Reverse String](https://leetcode.com/problems/reverse-string/)
+P24[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+P118[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+P119[Pascal's Triangle Ⅱ](https://leetcode.com/problems/pascals-triangle-ii/)
+P206[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+P509[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+P70[Climbing Stirs](https://leetcode.com/problems/climbing-stairs/)
+P104[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+具体代码可见github上的recursion文件夹内的java文件。
+### 24  
 ``` java
 /**
  * Definition for singly-linked list.
@@ -35,7 +50,7 @@ class Solution {
     }
 }
 ```
-
+### 118
 ``` java
 import java.util.ArrayList;
 import java.util.List;
@@ -69,7 +84,7 @@ class Solution {
     }
 }
 ```
-
+### 206
 ```java
 public class S01271 {
     //ListNode ln=null;
@@ -90,6 +105,7 @@ public class S01271 {
     }
 }
 ```
+### 509  
 ```java
 import java.util.HashMap;
 public class S01273 {
@@ -106,6 +122,7 @@ public class S01273 {
     }
 }
 ```
+### 70
 ```java
 import java.util.HashMap;
 public class S01274 {
